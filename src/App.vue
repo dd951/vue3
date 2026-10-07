@@ -33,7 +33,7 @@ export default {
     import { ref } from 'vue';
     import Person from './components/Person.vue';
 
-        // 数据
+    // 数据
     let myDiv = ref();
 
     // 方法
